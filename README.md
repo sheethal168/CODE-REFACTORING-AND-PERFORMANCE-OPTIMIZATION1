@@ -61,3 +61,10 @@ This project is a simple Expense Tracker web application that allows users to ad
 | DOM Access | Repeated | Cached |
 | Validation | Not present | Added |
 
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/aeeb4c1d-3c11-4fc5-9e1c-67bb42a106ee)
+![Image](https://github.com/user-attachments/assets/bb27e050-d053-4b16-87ae-b7bc857c5ae2)
+
+[INTERNSHIP TASK 4.pdf](https://github.com/user-attachments/files/26219878/INTERNSHIP.TASK.4.pdf)
+
